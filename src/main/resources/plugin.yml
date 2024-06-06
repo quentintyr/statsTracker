@@ -1,0 +1,4 @@
+name: statsTracker
+version: '${project.version}'
+main: me.tyr.statstracker.StatsTracker
+api-version: '1.20'
