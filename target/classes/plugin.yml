@@ -1,0 +1,4 @@
+name: statsTracker
+version: '1.0-SNAPSHOT'
+main: me.tyr.statstracker.StatsTracker
+api-version: '1.20'
